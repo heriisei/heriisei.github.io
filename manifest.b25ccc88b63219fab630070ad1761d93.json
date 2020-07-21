@@ -1,0 +1,53 @@
+{
+  "icons": [
+    {
+      "src": "icon_72x72.e56870ab4f726a25397b8ca8cd920a93.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.6887e6e314824adc90c95ffecc43fc7c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.1db6eb7716e622e80adc795d76987989.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_144x144.cc8b3adb1208fcccbcf5a231c8ed044b.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.5ed5ee5f803a4e3bbb192ecf8a38fc3f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.8f034c7d4db90cc3d32b7f2869afcdcb.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.4188732e9d325075319170677c060dd2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_512x512.36f18861b2cb3987b5df9a82db6613c6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Football Hub",
+  "short_name": "Football Hub",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Latest Football News",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "gcm_sender_id": "671009056936"
+}
