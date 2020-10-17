@@ -1,5 +1,5 @@
 {
-  "itin": {
+  "itineraryDetails": {
     "id": 587,
     "nama": "3 Hari di Bogor",
     "email": "optimus102001@gmail.com",
@@ -44,7 +44,7 @@
     "namaitinerary": "3 Hari di Bogor",
     "iditin": 587
   },
-  "itinerary": [
+  "itineraryActivity": [
     {
       "id": null,
       "id_itin": 587,
